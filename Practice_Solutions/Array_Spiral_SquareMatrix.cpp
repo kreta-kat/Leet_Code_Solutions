@@ -61,7 +61,6 @@ int main() {
         cin >> arr[i][j];
         }
     }
-    
     print_boundary(arr, n);
 
     return 0;
