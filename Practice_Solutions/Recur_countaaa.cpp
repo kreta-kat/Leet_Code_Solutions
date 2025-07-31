@@ -47,7 +47,7 @@ int main() {
     int ans1 = countaaa1(str,0);
     int ans2 = countaaa2(str,0);
     cout << "aaa count using OVERLAP " << ans1 << endl;
-    cout << "aaa count  WITHOUT OVERLAP " << anaas2 << endl;
+    cout << "aaa count  WITHOUT OVERLAP " << ans2 << endl;
     
     return 0;
 }
